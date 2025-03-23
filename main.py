@@ -5,7 +5,7 @@ import musicLibrary
 import requests
 recognizer = sr.Recognizer()
 engine = pyttsx3.init()
-newsapi ="9aa0f026af314bfdadcdf6a9ed8ef37b"
+
 
 
 
